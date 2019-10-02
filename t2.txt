@@ -1,3 +1,0 @@
-hello t2.txt!
-hello 123 !
-i love you !
